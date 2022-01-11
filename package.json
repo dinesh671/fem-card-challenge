@@ -1,0 +1,37 @@
+{
+  "name": "stats-preview-card-component-main",
+  "version": "1.0.0",
+  "description": "fem challenge",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^10.4.2",
+    "babel": "^6.23.0",
+    "browser-sync": "^2.27.7",
+    "cssnano": "^5.0.15",
+    "dart-sass": "^1.25.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "postcss": "^8.4.5",
+    "sass": "^1.47.0",
+    "terser": "^5.10.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.7"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinesh671/fem-card-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinesh671/fem-card-challenge/issues"
+  },
+  "homepage": "https://github.com/dinesh671/fem-card-challenge#readme"
+}
